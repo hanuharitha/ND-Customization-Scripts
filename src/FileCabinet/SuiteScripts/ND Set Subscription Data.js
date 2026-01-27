@@ -113,4 +113,4 @@ define(['N/log', 'N/search', 'N/record', 'N/format'], function (log, search, rec
 });
 
 
-///Added for testing purpose
+///Added for testing purpose to see logs in console
